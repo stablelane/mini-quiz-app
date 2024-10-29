@@ -1,0 +1,23 @@
+html {
+    margin: 0;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100dvh;
+    margin: 0;
+}
+
+.container {
+    min-width: 600px;
+    max-width: 710px;
+    width: 80%;
+    height: 90vh;
+    border: 3px solid black;
+    margin: auto;
+    font-family: "Roboto", sans-serif;
+    overflow: scroll;
+    display: flex;
+    justify-content: center;
+}
