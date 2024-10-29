@@ -9,7 +9,7 @@ const Quizquestions = {
             options: ['trivandrum', 'kozhikode', 'kochi']
         },
         {
-            question: "what is the my name",
+            question: "what is my name",
             options: ['anshad', 'dahsna', 'anshaad']
         },
     ]
