@@ -11,20 +11,10 @@ const Quizquestions = {
             correctOption: 'trivandrum'
         },
         {
-            question: "what is my name",
+            question: "what is the my name",
             options: ['anshad', 'dahsna', 'anshaad'],
             correctOption: 'anshad'
         },
-        {
-            question: "jilakka",
-            options: ['anshad', 'dahsna', 'anshaad'],
-            correctOption: 'anshad'
-        },
-        {
-            question: "jilakka",
-            options: ['anshad', 'dahsna', 'anshaad'],
-            correctOption: 'dahsna'
-        }
     ]
 }
 let result = 0
